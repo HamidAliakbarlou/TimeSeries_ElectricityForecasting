@@ -1,4 +1,4 @@
-# TimeSeries_Forecasting
+# TimeSeries Forecasting (ARIMA, SARIMA, Linear Regression)
 
 In this project, we try to forecast the daily peak electricity load for specific zone of New York city, called Genese. We extract the required explanatory dataset by NYISO.
 
