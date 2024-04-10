@@ -8,5 +8,7 @@ The project yielded significant improvements in prediction accuracy, with a 30% 
 
 ## References
 [1] List of New York hurricanes. (2023). In Wikipedia. https://en.wikipedia.org/w/index.php?title=List_of_New_York_hurricanes&oldid=1141951419
-[7] NYISO. (2022). Day-Ahead Scheduling Manual. https://www.nyiso.com/documents/20142/2923301/dayahd_schd_mnl.pdf/0024bc71-4dd9-fa80-a816-f9f3e26ea53a 
-[1] U.S. Census Bureau QuickFacts: United States. (n.d.). Retrieved February 7, 2023, from https://www.census.gov/quickfacts/fact/table/US/PST045222
+
+[2] NYISO. (2022). Day-Ahead Scheduling Manual. https://www.nyiso.com/documents/20142/2923301/dayahd_schd_mnl.pdf/0024bc71-4dd9-fa80-a816-f9f3e26ea53a 
+
+[3] U.S. Census Bureau QuickFacts: United States. (n.d.). Retrieved February 7, 2023, from https://www.census.gov/quickfacts/fact/table/US/PST045222
